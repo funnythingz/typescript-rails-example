@@ -1,0 +1,3 @@
+interface IPrecure {
+    greeting(): string;
+}
